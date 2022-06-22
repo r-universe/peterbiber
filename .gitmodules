@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "viscomplexr"]
+	path = viscomplexr
+	url = https://github.com/peterbiber/viscomplexr
+	shallow = true
+	registered = true
